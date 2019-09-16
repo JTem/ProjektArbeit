@@ -1,0 +1,21 @@
+robot_controller
+X_ACHSE	linksHebel links/rechts	3	SLIDER	x	0	1.0	0.0
+Y_ACHSE	linksHebel oben/unten	3	SLIDER	y	0	1.0	0.0
+Z_ACHSE	rechtsHebel  links/rechts	3	SLIDER	z	0	1.0	0.0
+Z_ROT	rechtsHebel oben/unten	3	SLIDER	rz	0	1.0	0.0
+SELECT_KEY	select	1	BUTTON	0	0	0.0	0.0
+PRESS_LEFT	hebel links	1	BUTTON	1	0	0.0	0.0
+PRESS_RIGHT	hebel rechts	1	BUTTON	2	0	0.0	0.0
+START_KEY	start	1	BUTTON	3	0	0.0	0.0
+UP_KEY	up	1	BUTTON	4	0	0.0	0.0
+RIGHT_KEY	right	1	BUTTON	5	0	0.0	0.0
+DOWN_KEY	down	1	BUTTON	6	0	0.0	0.0
+LEFT_KEY	left	1	BUTTON	7	0	0.0	0.0
+L2_KEY	l2	1	BUTTON	8	0	0.0	0.0
+R2_KEY	r2	1	BUTTON	9	0	0.0	0.0
+L1_KEY	l1	1	BUTTON	10	0	0.0	0.0
+R1_KEY	r1	1	BUTTON	11	0	0.0	0.0
+TRIANGLE_KEY	triangle	1	BUTTON	12	0	0.0	0.0
+CIRCLE_KEY	circle	1	BUTTON	13	0	0.0	0.0
+X_KEY	x	1	BUTTON	14	0	0.0	0.0
+SQUARE_KEY	square	1	BUTTON	15	0	0.0	0.0

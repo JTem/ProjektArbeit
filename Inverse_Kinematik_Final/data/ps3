@@ -1,0 +1,17 @@
+﻿Robot_Controller
+Y_ACHSE	linker hebel/ oben/unten	3	SLIDER	Y-Achse	0	1.0	0.0
+X_ACHSE	linker Hebel link/rechts	3	SLIDER	X-Achse	0	1.0	0.0
+Y_ROT	rechter Hebel oben/unten	3	SLIDER	Y-Rotation	0	1.0	0.0
+X_ROT	recehter Hebel links/rechts	3	SLIDER	X-Rotation	0	1.0	0.0
+Z_ACHSE	L2 und R2	3	SLIDER	Z-Achse	0	1.0	0.0
+X_KEY	X taste	1	BUTTON	Taste 0	0	0.0	0.0
+CIRCLE_KEY	Kreis taste	1	BUTTON	Taste 1	0	0.0	0.0
+SQUARE_KEY	rechteck taste	1	BUTTON	Taste 2	0	0.0	0.0
+TRIANGLE_KEY	dreieck taste	1	BUTTON	Taste 3	0	0.0	0.0
+L1_KEY	L1 taste	1	BUTTON	Taste 4	0	0.0	0.0
+R1_KEY	R1 taste	1	BUTTON	Taste 5	0	0.0	0.0
+SELECT_KEY	Select taste	1	BUTTON	Taste 6	0	0.0	0.0
+START_KEY	Start taste	1	BUTTON	Taste 7	0	0.0	0.0
+PRESS_LEFT	Hebel drücken links	1	BUTTON	Taste 8	0	0.0	0.0
+PRESS_RIGHT	Hebel drücken rechts	1	BUTTON	Taste 9	0	0.0	0.0
+ARROW_KEYS	Pfeiltasten	2	HAT	cooliehat: Mehrwegeschalter	0	1.0	0.0
